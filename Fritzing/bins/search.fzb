@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.6b.2021-02-21.CD-175-0-8a1e0682" icon="Search.png" search="dpdt">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-ES" modelIndex="85435048" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-es.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-EG2211" modelIndex="85435049" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-eg2211.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-SMD" modelIndex="85435050" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-GPI" modelIndex="85435051" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-gpi.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-SPDT-PTH2" modelIndex="85435052" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-spdt-pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-PTH1" modelIndex="85435053" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-pth1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-PTH" modelIndex="85435054" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SWITCH-DPDT-OS" modelIndex="85435055" path="/Applications/Fritzing.app/Contents/Resources/fritzing-parts/core/sparkfun-electromechanical-switch-dpdt-os.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DPDT RELAY DIP16_3bfed25455ef6ee7157c64a64411407e_3" modelIndex="85435056" path="/Users/samantha.cruz/Documents/Fritzing/parts/user/DPDT RELAY DIP16_3bfed25455ef6ee7157c64a64411407e_3.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

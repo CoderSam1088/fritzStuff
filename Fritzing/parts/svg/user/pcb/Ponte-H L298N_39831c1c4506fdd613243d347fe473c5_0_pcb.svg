@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1222.2223 1111.1111" id="svg2" version="1.2"  width="110" height="100" gorn="0">
+    <desc>
+        <referenceFile>L298N-PCB.svg</referenceFile>
+    </desc>
+    <metadata id="metadata29">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs27">
+        <linearGradient id="linearGradient5807" paint="solid">
+            <stop id="stop5809" style="stop-color:#ffffff;stop-opacity:1;" offset="0"/>
+        </linearGradient>
+        <linearGradient id="linearGradient5330" paint="solid">
+            <stop id="stop5332" style="stop-color:#00ff00;stop-opacity:1;" offset="0"/>
+        </linearGradient>
+        <linearGradient id="linearGradient3890" paint="solid">
+            <stop id="stop3892" style="stop-color:#00ff00;stop-opacity:1;" offset="0"/>
+        </linearGradient>
+    </defs>
+    <desc id="desc4">Fritzing footprint SVG</desc>
+    <g transform="matrix(11.111112,0,0,11.111112,0,-4.0909091e-5)">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <rect x="5" fill="none" id="silkscreen" stroke-opacity="1" stroke-width="1" y="2.9900942" width="102.22927" height="95.084518" gorn="0.4.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffffff"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper1" gorn="0.5">
+        <g>
+            <g transform="translate(1029.6344,89.50618)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="70" id="connector6pin" stroke-opacity="1" stroke-width="20" d="M 97.5,70 C 97.5,85.187831 85.187831,97.5 70,97.5 54.812169,97.5 42.5,85.187831 42.5,70 42.5,54.812169 54.812169,42.5 70,42.5 85.187831,42.5 97.5,54.812169 97.5,70 z" r="27.5" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                    <rect x="69.925" fill="none" id="connector6terminal" stroke-width="0" y="107.425" width="0.15" height="0.15" gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke="none"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1029.6344,89.50618)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="170" id="connector5pin" stroke-opacity="1" stroke-width="20" d="m 97.5,170 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1029.6344,89.50618)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="270" id="connector4pin" stroke-opacity="1" stroke-width="20" d="m 97.5,270 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1029.6344,89.50618)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="370" id="connector3pin" stroke-opacity="1" stroke-width="20" d="m 97.5,370 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-0.99994238,-0.01073818,-0.01073818,0.99994238,832.04631,25.975975)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="70" id="connector8pin" stroke-opacity="1" stroke-width="20" d="M 97.5,70 C 97.5,85.187831 85.187831,97.5 70,97.5 54.812169,97.5 42.5,85.187831 42.5,70 42.5,54.812169 54.812169,42.5 70,42.5 85.187831,42.5 97.5,54.812169 97.5,70 z" r="27.5" gorn="0.5.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-0.99994238,-0.01073818,-0.01073818,0.99994238,933.11434,-72.944405)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="170" id="connector7pin" stroke-opacity="1" stroke-width="20" d="m 97.5,170 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.5.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-0.99994235,-0.01073818,-0.01073818,0.99994235,841.10346,941.96108)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="70" id="connector9pin" stroke-opacity="1" stroke-width="20" d="M 97.5,70 C 97.5,85.187831 85.187831,97.5 70,97.5 54.812169,97.5 42.5,85.187831 42.5,70 42.5,54.812169 54.812169,42.5 70,42.5 85.187831,42.5 97.5,54.812169 97.5,70 z" r="27.5" gorn="0.5.0.6.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-0.99994235,-0.01073818,-0.01073818,0.99994235,942.17149,843.04069)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill="none" cx="70" cy="170" id="connector10pin" stroke-opacity="1" stroke-width="20" d="m 97.5,170 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00">
+                                                                        <title id="title5372">OUT</title>
+                                                                    </circle>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1022.6985,686.03848)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill-opacity="1" fill="none" cx="70" cy="70" id="connector2pin" stroke-opacity="1" stroke-width="20" d="M 97.5,70 C 97.5,85.187831 85.187831,97.5 70,97.5 54.812169,97.5 42.5,85.187831 42.5,70 42.5,54.812169 54.812169,42.5 70,42.5 85.187831,42.5 97.5,54.812169 97.5,70 z" r="27.5" gorn="0.5.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1022.6985,686.03848)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill-opacity="1" fill="none" cx="70" cy="170" id="connector1pin" stroke-opacity="1" stroke-width="20" d="m 97.5,170 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="translate(1022.6985,686.03848)">
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <g>
+                                                    <g>
+                                                        <g>
+                                                            <g>
+                                                                <g>
+                                                                    <circle fill-opacity="1" fill="none" cx="70" cy="270" id="connector0pin" stroke-opacity="1" stroke-width="20" d="m 97.5,270 c 0,15.18783 -12.312169,27.5 -27.5,27.5 -15.187831,0 -27.5,-12.31217 -27.5,-27.5 0,-15.18783 12.312169,-27.5 27.5,-27.5 15.187831,0 27.5,12.31217 27.5,27.5 z" r="27.5" gorn="0.5.0.10.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke="#ffbf00"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

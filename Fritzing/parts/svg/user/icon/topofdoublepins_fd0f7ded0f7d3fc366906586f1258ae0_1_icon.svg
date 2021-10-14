@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" version="1.1" height="0.10in" viewBox="0 0 7.199 7.199" y="0px"  xml:space="preserve" baseProfile="basic" id="svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="0.1in" gorn="0">
+    <desc>
+        <referenceFile>generic_male_header.svg</referenceFile>
+    </desc>
+    <g  id="breadboard" gorn="0.0">
+        <rect x="2.204" height="2.791" y="2.204"  fill="none" id="connector0pin" width="2.791" gorn="0.0.0"/>
+        <rect x="2.518" height="2.262" y="2.469"  fill="none" id="connector0terminal" width="2.164" gorn="0.0.1"/>
+        <g >
+            <polygon points="1.563,0 0.0,1.564 0.0,5.637 1.563,7.199 5.635,7.199 7.199,5.637 7.199,1.564 5.635,0 1.563,0"  fill="#404040"/>
+        </g>
+        <g >
+            <rect x="2.451" height="2.299" y="2.45"  fill="#8D8C8C" width="2.297"/>
+            <rect x="3.009" height="1.183" y="3.008"  fill="#8C8663" width="1.182"/>
+            <polygon points="2.451,2.45 3.009,3.008 4.19,3.008 4.748,2.45"  fill="#B8AF82"/>
+            <polygon points="4.19,4.19 4.19,3.008 4.748,2.45 4.748,4.749 &#x9;&#x9;"  fill="#80795B"/>
+            <polygon points="3.009,4.19 4.19,4.19 4.748,4.749 2.451,4.749 &#x9;&#x9;"  fill="#5E5B43"/>
+            <polygon points="2.451,2.45 3.009,3.008 3.009,4.19 2.451,4.749 &#x9;&#x9;"  fill="#9A916C"/>
+        </g>
+    </g>
+</svg>

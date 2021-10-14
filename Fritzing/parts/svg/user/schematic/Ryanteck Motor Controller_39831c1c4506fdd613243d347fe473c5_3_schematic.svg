@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" xml:space="preserve" viewBox="0 0 57.643 71.833" id="Layer_1" version="1.2" y="0px"  width="0.800597in" height="0.997681in" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <desc >
+        <referenceFile >L298N-schema3.svg</referenceFile>
+    </desc>
+    <metadata id="metadata9246" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs9244" />
+    <rect x="-28.625" y="-21.614"  width="122.108" height="122.062" style="fill:#f2f2f2"/>
+    <rect x="8.1131315" fill="#ffffff" id="part_symbol" stroke-width="0.90020001" y="7.3521886"  width="43.199001" height="57.598999" gorn="0.4" style="stroke-linecap:round" stroke="#000000"/>
+    <g  transform="translate(0.91313136,2.1521886)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9154"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="50.400002" fill="none" x2="57.599998" id="connector1pin" y2="50.400002" stroke-width="0.69999999"  gorn="0.5.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="50.401001"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.91313136,2.1521886)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9158"  gorn="0.6.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="43.200001" fill="none" x2="57.599998" id="connector2pin" y2="43.203999" stroke-width="0.69999999"  gorn="0.6.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="50.401001"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.91313136,0.15218856)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9162"  gorn="0.7.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="64.799004" fill="none" x2="28.799999" id="connector9pin" y2="72" stroke-width="0.69999999"  gorn="0.7.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="28.799999"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line y1="35.344105" fill="none" x2="58.944111" id="connector3pin" y2="35.344105" stroke-width="0.69999999"  gorn="0.8" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="51.74411"/>
+    <line y1="15.512458" fill="none" x2="58.944111" id="connector6pin" y2="15.512458" stroke-width="0.69999999"  gorn="0.9" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="51.74411"/>
+    <line y1="58.87542" fill="none" x2="59.203964" id="connector0pin" y2="58.87542" stroke-width="0.98994946"  gorn="0.10" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="52.003963"/>
+    <line y1="-0.47259971" fill="none" x2="34.981384" id="connector7pin" y2="6.7271419" stroke-width="0.69999999"  gorn="0.11" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="34.9203"/>
+    <g  transform="translate(0.91313136,0.15218856)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9174"  gorn="0.12.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="7.2010002" fill="none" x2="28.799999" id="connector8pin" y2="0" stroke-width="0.69999999"  gorn="0.12.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="28.799999"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.91313136,0.15218856)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9178"  gorn="0.13.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="28.799999" fill="none" x2="57.599998" id="connector4pin" y2="28.799999" stroke-width="0.69999999"  gorn="0.13.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="50.401001"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.91313136,0.15218856)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="g9182"  gorn="0.14.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <line y1="21.6" fill="none" x2="57.599998" id="connector5pin" y2="21.604" stroke-width="0.69999999"  gorn="0.14.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="50.401001"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line y1="72.472733" fill="none" x2="34.3465" id="connector10pin" y2="65.272736" stroke-width="0.69999999"  gorn="0.15" style="stroke-linecap:round;stroke-linejoin:round" stroke="#555555" x1="34.337681"/>
+    <g  transform="translate(0.91313136,0.15218856)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <g >
+                                                        <g id="pin_numbers"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0">
+                                                            <g  transform="translate(53.3108,20.1543)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9187"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(53.1409,27.4492)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9189"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(2.7742,20.0605)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9191"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(30.1624,3.873)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9193"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(30.1624,69.1099)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9195"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.4.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(2.7742,27.1855)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9197"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <text x="35.885048" id="text9199" y="4.247788"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.6" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                            <g  transform="translate(2.7742,41.811)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9201"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.7.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(53.1409,42.0747)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9203"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.8.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                            <g  transform="translate(53.1409,49.1997)">
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g >
+                                                                                                    <g >
+                                                                                                        <g >
+                                                                                                            <g >
+                                                                                                                <text id="text9205"  gorn="0.16.0.0.0.0.0.0.0.0.0.0.0.0.0.9.0.0.0.0.0.0.0.0.0.0.0.0.0" style="font-size:3px;fill:#555555;font-family:DroidSans" font-size="3"/>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <text x="23.436331" id="text9238" y="21.571089"  gorn="0.17" style="font-size:6px;font-family:DroidSans" font-size="6"/>
+    <text x="19.222258" id="text9240" y="28.77129"  gorn="0.18" style="font-size:6px;font-family:DroidSans" font-size="6">L298N</text>
+    <text x="20.896332" id="text9250" y="28.77129"  gorn="0.19" style="font-size:6px;font-family:DroidSans" font-size="6"/>
+</svg>

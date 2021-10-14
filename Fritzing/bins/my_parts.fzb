@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.6b.2021-02-21.CD-175-0-8a1e0682" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="topofdoublepins_fd0f7ded0f7d3fc366906586f1258ae0_1" modelIndex="85425956" path="/Users/samantha.cruz/Documents/Fritzing/parts/user/topofdoublepins_fd0f7ded0f7d3fc366906586f1258ae0_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
